@@ -5,9 +5,8 @@
 # Controls
  1 - Change sand state to dynamic
  
-
  2 - Change sand state to static
-
-Left click - add sand
-
-Right click - remove sand
+ 
+ Left click - add sand
+ 
+ Right click - remove sand
